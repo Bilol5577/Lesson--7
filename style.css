@@ -1,0 +1,129 @@
+body{
+    border: 1px  solid black;
+    width: 1440px;
+    height: 2000px;
+    margin: 0 auto;
+
+}
+.nav{
+    width: 1180px;
+    height: 41px;
+    border: 1px  ;
+    margin: 0 auto;
+    display: flex;
+    margin-top: 46px;
+}
+.nav ul{
+    display: flex;
+    gap: 40px;
+    list-style: none;
+    padding: 0px 0px 0px 575px;
+    font-size: 14px ;
+    font-weight: 700;
+    color: #7D7987;
+    width: 545px;
+}
+.nav ul li:hover{
+    color: #1F1534;
+}
+.select{
+    width: 1180px;
+    height: 466px;
+    margin-top: 178px;
+    border: 1px  ;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+.d{
+    width: 1180px;
+    height: 91px;
+    border: 1px  ;
+    margin: 0 auto;
+}
+.h1{
+    padding: 85px 0 0 0;
+}
+.p{
+    
+}
+.button{
+    width: 158px;
+    height: 49px;
+    border-radius: 55px;
+    background-color: #458FF6;
+    color: #FFFFFF;
+}
+.i{
+    
+}
+.dav{
+    display: block;
+}
+.nam{
+    border: 1px  ;
+    width: 952px;
+    height: 180px;
+    margin: 0 auto;
+    line-height: 30px;
+    font-size: 18px;
+    font-weight: 300;
+}
+.text{
+    text-align: center;
+    color: #7D7987;
+}
+.h2{
+    color: #1F1534;
+}
+.a{
+    border: 1px  ;
+    width: 1180px;
+    height: 36px;
+    margin: 0 auto;
+}
+.block{
+    width: 1180px;
+    height: 805px;
+    margin:0 auto;
+    border: 1px  ;
+}
+.block div:hover{
+    background-color: #458FF6;
+    color: white;
+}
+.q1{
+    display: block;
+    width: 380px;
+    height: 380px;
+    border: 1px  ;
+    border-radius: 20px;
+    font-size: 20px;
+    background-color: #E7E7E7;
+}
+.da{
+    display: flex;
+    gap: 20px;
+    justify-content: space-evenly;
+}
+.imgs{
+    width: 97px;
+    height: 94px;
+}
+.img2{
+    margin: 30px;
+}
+.e{
+    border: 1px solid #458FF6;
+    width: 200px;
+    height: 57px;
+    border-radius: 55px;
+    background-color: #FFFFFF;
+    color: #458FF6;
+    margin-left: 630px;
+    margin-top: 100px;
+}
+.e:hover{
+    background-color: #458FF6;
+    color: white;
+}
